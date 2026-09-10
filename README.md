@@ -17,7 +17,7 @@ performance.
 
 ## 📊 Dashboard Preview
 
-![zudio Dashboard](./zudio dashboard.png)
+![zudio Dashboard](./dashboard.png)
 
 ## 🔍 Key Analysis
 
